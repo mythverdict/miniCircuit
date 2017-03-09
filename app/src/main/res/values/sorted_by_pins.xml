@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--transformer, cttrans and multi-pins model not included-->
+<resources>
+    <string-array name="type_1_pins_horizon">
+
+    </string-array>
+    <string-array name="type_1_pins_vertical">
+        <item>ground</item>
+    </string-array>
+    <string-array name="type_2_pins_horizon">
+        <item>spst</item>
+        <item>not</item>
+        <item>voltmeter</item>
+        <item>ohmmeter</item>
+    </string-array>
+    <string-array name="type_2_pins_vertical">
+        <item>vsrc</item>
+        <item>vsrcsine</item>
+        <item>resistor</item>
+        <item>capacitor</item>
+        <item>inductor</item>
+        <item>potentiometer</item>
+        <item>diode</item>
+        <item>zener</item>
+        <item>led</item>
+        <item>isrc</item>
+        <item>vccs</item>
+        <item>vcvs</item>
+        <item>cccs</item>
+        <item>ccvs</item>
+
+    </string-array>
+    <string-array name="type_3_pins_2_left">
+        <item>and</item>
+        <item>nand</item>
+        <item>or</item>
+        <item>xor</item>
+        <item>nor</item>
+        <item>xnor</item>
+        <item>opamp</item>
+
+    </string-array>
+    <string-array name="type_3_pins_2_right">
+        <item>spdt</item>
+        <item>njfet</item>
+        <item>nmos</item>
+        <item>pjfet</item>
+        <item>pmos</item>
+        <item>npn</item>
+        <item>pnp</item>
+
+    </string-array>
+</resources>
